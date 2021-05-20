@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kyriakos dimtsis
-- 👀 I’m interested in data analysis, data science and python programming
-- 🌱 I’m currently learning Python, Pandas library, Postgre SQL and Power bi
-- 💞️ I'm trying to make as many projects as i can so i can learn through practise and also be able to showcase my skills
+- 👀 I am currently self-studying in order to learn the skills necessary to transition my career into data analytics. 
+- 🌱 I have finished courses in Python, SQL (PostgreSQL, MySQL), Pandas and Microsoft Power BI and currently working on the Data Analytics Google Certificate. 
+- 💞️ I have made some Webscrapping projects and also some PowerBI dashboards which are available on my LinkedIn profile. 
 - 📫 You can reach me through my Linkedin profile: https://www.linkedin.com/in/kiriakos-dimtsis-4a42041b7/
 
 <!---
